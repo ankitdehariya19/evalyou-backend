@@ -23,4 +23,4 @@ app.include_router(interview.router)
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the FastAPI Backend! Visit /docs for the API documentation."}
+    return {"message": "Hello from CI/CD!"}
