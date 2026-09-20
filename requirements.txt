@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+bcrypt
+python-jose[cryptography]
+python-dotenv
+pydantic
+pydantic[email]
+pydantic-settings
+python-multipart
+groq
+python-multipart
+langchain
+langchain-groq
+langgraph
